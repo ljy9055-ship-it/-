@@ -4512,7 +4512,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b2ad359e7419d249b1c7c9031e09ab1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemDatabase: {fileID: 0}
+  itemDatabase: {fileID: 584991483}
   storyText: {fileID: 1607385695}
   statusText: {fileID: 1136942060}
   choiceButtons:
