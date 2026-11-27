@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemGiveAmount: 1
   nodeType: 0
-  nextNode: {fileID: 0}
+  nextNode: {fileID: 11400000, guid: baef93910ac49b94ca8d1a2b2087b388, type: 2}
   nodeId: 1111111111111
   storyText: "\uAC11\uC791\uC2A4\uB7FD\uAC8C \uB4E4\uB824\uC628 \uBAA9\uC18C\uB9AC\uC5D0
     \uBAA8\uB450\uAC00 \uC228\uC744 \uC8FD\uC600\uB2E4."

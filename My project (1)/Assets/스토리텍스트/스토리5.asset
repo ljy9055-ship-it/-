@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fdc67350ab9bef45a581e51a2a82e80, type: 3}
+  m_Name: "\uC2A4\uD1A0\uB9AC5"
+  m_EditorClassIdentifier: 
+  itemGiveAmount: 1
+  nodeType: 0
+  nextNode: {fileID: 11400000, guid: 9c9b87c20a7518e4391d5035fea5b059, type: 2}
+  nodeId: 555555
+  storyText: "???: \"\uC8C4\uC1A1\uD569\uB2C8\uB2E4. \uB108\uBB34 \uB180\uB77C\uC11C\u2026\u2026
+    \uC124\uB9C8 \uB300\uB2F5\uC774 \uB3CC\uC544\uC62C \uC904\uC740 \uBAB0\uB790\uAC70\uB4E0\uC694.\""
+  backgroundImage: {fileID: 21300000, guid: 15f51d61130501947809b9c538216a66, type: 3}
+  hpChange: 0
+  goldChange: 0
+  attackChange: 0
+  defenseChange: 0
+  maxHpChange: 0
+  itemToGive: {fileID: 0}
+  enemy: {fileID: 0}
+  victoryNode: {fileID: 0}
+  defeatNode: {fileID: 0}
+  escapeNode: {fileID: 0}
+  choices: []
+  eventId: 
+  runOnlyOnce: 0
+  characterSprite: {fileID: 0}
